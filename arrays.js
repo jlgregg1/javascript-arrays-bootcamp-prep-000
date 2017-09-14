@@ -4,4 +4,3 @@ function addElementToBeginningOfArray(array, element) {
   $[element]...$[array]
 }
 addElementToBeginningOfArray(chocolateBars,'milkyway')
-
