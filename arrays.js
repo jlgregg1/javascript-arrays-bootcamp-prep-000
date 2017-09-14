@@ -3,13 +3,13 @@ function addElementToBeginningOfArray(array, element) {
   return [element,...array]
 }
 function addElementToEndOfArray(array, element) {
-  [...array,element]
+  return [...array,element]
 }
 function destructivelyAddElementToEndOfArray(array, element) {
-  array.push(element)
+  return array.push(element)
 }
 function destructivelyAddElementToBeginningOfArray(array, element) {
-  array.unshift(element)
+  return array.unshift(element)
 }
 function accessElementInArray(array, index) {
   return array[index]
