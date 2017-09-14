@@ -12,5 +12,5 @@ function destructivelyAddElementToBeginningOfArray(array, element) {
   array.unshift(element)
 }
 function accessElementInArray(array, index) {
-  console.log(array[index])
+  console.log(array[index]);
 }
