@@ -4,4 +4,3 @@ function addElementToBeginningOfArray(element, array) {
   'milkyway'...chocolateBars
 }
 addElementToBeginningOfArray()
-
