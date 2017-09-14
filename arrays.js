@@ -4,3 +4,4 @@ function addElementToBeginningOfArray(element, array) {
   'milkyway'...chocolateBars
 }
 addElementToBeginningOfArray()
+console.log(chocolateBars)
