@@ -3,4 +3,3 @@ function destructivelyAddElementToBeginningOfArray(element, array) {
   $[array].unshift($[element])
   destructivelyAddElementToBeginningOfArray('milkyway', chocolateBars)
 }
-
