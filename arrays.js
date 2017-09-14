@@ -3,4 +3,3 @@ function destructivelyAddElementToBeginningOfArray(array, element) {
   return element...array
 }
 destructivelyAddElementToBeginningOfArray(chocolateBars, 'milkyway')
-
